@@ -7,3 +7,6 @@
 🇨🇳 China Hangzhou🕹Ops
 
 https://blog.bitqiu.cc
+
+<hr>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=bitqiu&text_color=718096&bg_color=ffffff&hide_title=true" />
