@@ -4,8 +4,6 @@
 
 > Keep calm and coding.
 
-🇨🇳 China Hangzhou🕹Ops
-
 https://blog.bitqiu.cc
 
 <hr>
